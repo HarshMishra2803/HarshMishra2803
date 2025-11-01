@@ -38,6 +38,8 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
+[![An image of @harshmishra2803's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshmishra2803)](https://holopin.io/@harshmishra2803)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshmishra2803&show_icons=true&locale=en&layout=compact" alt="harshmishra2803" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshmishra2803&show_icons=true&locale=en" alt="harshmishra2803" /></p>
