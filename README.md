@@ -21,9 +21,9 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://twitter.com/harshmishra2803"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
  
-  <a href="https://instagram.com/harshmishra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ 
   <a href="mailto:mishraharsh.2803@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
