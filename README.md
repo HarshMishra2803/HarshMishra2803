@@ -1,1 +1,35 @@
-<!-- 🌌 FUTURISTIC GLASSMORPHIC PROFILE --> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=4DD0E1&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Harsh+Mishra;Full+Stack+Developer+🚀;MERN+%7C+Next.js+%7C+Java+💻;Always+Building,+Always+Learning!+🔥" alt="Typing SVG" /> <br/> <img src="https://komarev.com/ghpvc/?username=harshmishra2803&label=PROFILE+VIEWS&color=0A66C2&style=for-the-badge" alt="views" /> </div> --- ### 👨‍💻 About Me 💡 A **Full Stack Developer** passionate about crafting interactive digital experiences. 🌱 Currently diving deep into **Next.js, TypeScript, and UI/UX optimization**. 🧠 I love blending **design, logic, and performance** to make ideas real. 📬 Reach me at **mishraharsh.2803@gmail.com** ⚡ “Simplicity is the soul of efficiency.” --- ### 🌐 Connect with Me <p align="center"> <a href="mailto:mishraharsh.2803@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p> --- ### 🧠 Tech Stack <div align="center" style="backdrop-filter: blur(12px); border-radius: 16px; padding: 16px; background: rgba(255,255,255,0.05); box-shadow: 0 4px 30px rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.2);"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,nodejs,express,mongodb,mysql,git,postman,figma,vscode,java,tailwind&theme=dark" /> </div> --- ### 🏆 Achievements & Badges <p align="center" style="background: rgba(255,255,255,0.05); padding: 12px 0; border-radius: 16px; backdrop-filter: blur(12px);"> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="70" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="70" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="70" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="70" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="70" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="70" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="70" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="70" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="70" /> </p> --- ### 📊 GitHub Analytics (All in One) <div align="center"> <!-- Animated Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmishra2803&theme=tokyo-night&area=true&hide_border=true&radius=12" width="96%"/> <!-- Stats & Streak --> <img src="https://github-readme-streak-stats.herokuapp.com?user=harshmishra2803&theme=react&ring=00E7FF&fire=DD2727&currStreakNum=FFFFFF&currStreakLabel=00E7FF&hide_border=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api?username=harshmishra2803&show_icons=true&theme=react&hide_border=true&count_private=true" width="49%" /> <!-- Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmishra2803&layout=compact&theme=react&hide_border=true&langs_count=8" width="49%" /> <!-- Contribution Graph (Green Bars) --> <img src="https://github-contributor-stats.vercel.app/api?username=harshmishra2803&limit=5&theme=react&combine_all_yearly_contributions=true" width="49%"/> <!-- Achievements --> <img src="https://github-profile-trophy.vercel.app/?username=harshmishra2803&theme=onestar&column=4&margin-w=15&margin-h=15" width="80%" /> </div> --- ### 🧊 Quote & Vibe <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00E7FF&center=true&vCenter=true&width=700&lines=%22Make+it+work,+make+it+right,+make+it+fast.%22;—+Harsh+Mishra+💡" alt="quote"/> </p> --- ### 🌈 Vibes Section <p align="center"> <img src="https://media.giphy.com/media/l1J9ur3QV6G2p9Hji/giphy.gif" width="120" /> <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="120" /> <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="120" /> </p> --- <h3 align="center"> 🌌 Designed By <a href="https://github.com/harshmishra2803">Harsh Mishra</a> </h3> yae mera readme ha github ka esmas kafi chixa wor nai kaarha esko aur beeter banadoupahle sae best ekdam tagda and sarree jia work kare
+<div align="center">
+
+# 🚀 COMING SOON
+
+### Building something awesome here 💻🔥  
+### Stay tuned!
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 My GitHub Activity
+
+<!-- GitHub Streak -->
+<img width="60%" 
+src="https://github-readme-streak-stats.herokuapp.com?user=harshmishra2803&theme=radical&hide_border=true" />
+
+<br/><br/>
+
+<!-- GitHub Activity Graph -->
+<img width="90%" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=harshmishra2803&theme=redical&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<b>👨‍💻 Harsh Mishra</b><br/>
+<i>More updates coming soon...</i>
+
+</div>
