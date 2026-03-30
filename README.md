@@ -27,8 +27,7 @@ const harsh = {
   college: "Babu Banarasi Das University, Lucknow",
   year: "3rd Year — B.Tech CSE (2023–2027)",
   currentlyBuilding: "🚀 Spredify — AI Content Repurposing SaaS",
-  techStack: ["MongoDB", "Express", "React", "Node.js", "Claude AI"],
-  goal: "Land a 10+ LPA role in a product-based company",
+  techStack: ["MongoDB", "Express", "React", "Node.js", "Claude AI"],,
   contact: "harshmishra.2803@gmail.com",
   funFact: "I debug with console.log and I'm not ashamed 😄"
 };
