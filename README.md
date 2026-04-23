@@ -54,7 +54,10 @@ AI instantly generates **Twitter threads, LinkedIn posts, Email newsletters, Vid
 | Feature | Status |
 |--------|--------|
 | 🔐 JWT Authentication | ✅ Done |
-| 🤖 Claude AI Integration | 🔨 Building |
+| 🤖 Groq AI Integration | ✅ Done |
+| 📝 Content Repurpose API | ✅ Done |
+| 📁 History API | ✅ Done |
+| ⚛️ React Frontend | 🔨 Building |
 | 💳 Stripe Payments | 🔜 Coming |
 | 📊 Usage Dashboard | 🔜 Coming |
 | 🚀 Deployment | 🔜 Coming |
