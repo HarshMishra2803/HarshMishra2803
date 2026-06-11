@@ -37,63 +37,6 @@ const harsh = {
 
 <br/>
 
----
-
-## 🔥 Currently Building — Spredify
-
-<div align="center">
-
-<br/>
-
-### 🚀 [Spredify](https://github.com/HarshMishra2803/Spredify) — AI-Powered Content Repurposing SaaS
-
-<img src="https://img.shields.io/badge/Status-Building%20In%20Public-FF6B35?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Groq%20AI-6E40C9?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Type-SaaS%20Product-1D9E75?style=for-the-badge"/>
-
-<br/><br/>
-
-> 💡 **One Content. Every Platform. Powered by AI.**
-
-*Paste any blog post, podcast transcript, or YouTube script →*
-*AI instantly generates Twitter threads, LinkedIn posts, Email newsletters, Video scripts & Blog summaries*
-
-<br/>
-
-</div>
-
-### 📋 Build Progress
-
-| Feature | Status | Details |
-|---------|--------|---------|
-| 🔐 JWT Authentication | ✅ **Done** | Register, Login, Protected Routes |
-| 🤖 Groq AI Integration | ✅ **Done** | Llama 3.3 — Content Generation |
-| 📝 Content Repurpose API | ✅ **Done** | 5 Platform Outputs |
-| 📁 History API | ✅ **Done** | MongoDB — Save & Fetch |
-| ⚛️ React Frontend | 🔨 **Building** | Tailwind + Framer Motion |
-| 💳 Stripe Payments | 🔜 **Coming** | Free & Pro Plans |
-| 📊 Usage Dashboard | 🔜 **Coming** | Analytics & Limits |
-| 🚀 Deployment | 🔜 **Coming** | Vercel + Render |
-
-<div align="center">
-
-**Tech Stack:**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-</div>
-
-<br/>
-
----
 
 ## 🛠️ Tech Stack
 
