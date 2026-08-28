@@ -18,11 +18,11 @@
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  BREAKING  ░░  LOCAL DEV SHIPS TWO LIVE AI PRODUCTS IN FINAL YEAR
+  BREAKING  ░░   PROJECTS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-> *LUCKNOW, India —* Harsh Mishra, a 3rd-year Computer Science student at
+> *LUCKNOW, India —* Harsh Mishra, a 4th-year Computer Science student at
 > Babu Banarasi Das University, has shipped two fully deployed, production-grade
 > AI web applications while maintaining a CGPA of 8.56 and solving 200+ DSA
 > problems on LeetCode. Sources confirm he is actively seeking his next role.
